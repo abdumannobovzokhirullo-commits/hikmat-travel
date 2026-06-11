@@ -1,0 +1,6 @@
+{
+  "name": "Umra Safari",
+  "description": "Muqaddas Umra safarini tashkillashtirish va bron qilish bo'yicha mukammal va vizual tarzda jozibador veb-sahifa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
